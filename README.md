@@ -1,3 +1,3 @@
 # IProgrammerTest
 
-Contains Apk of the application ie :  app-debug.apk
+Please refer master branch for source code and APK
